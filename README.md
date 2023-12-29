@@ -55,8 +55,8 @@
 ## Output:
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
-### Name: AJITH KUMAR A
-### Register Number: 23002150
+### Name: DAKSHA SUBBAIAN
+### Register Number: 212223230036
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
@@ -117,7 +117,7 @@ ANISM
 ## Output:
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
-### Name: Daksha Subbaian
+### Name: DAKSHA SUBBAIAN
 ### Register Number: 212223230036
 
 ## RESULT:
